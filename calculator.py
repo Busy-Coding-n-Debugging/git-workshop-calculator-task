@@ -18,11 +18,11 @@ def multiply(a, b):
 
 # TODO: Implement this function
 def divide(a, b):
-    pass
+    return a / b
 
 # TODO: Implement this function
 def power(a, b):
-    pass
+    return a ** b 
 
 while True:
     print("\n---- CALCULATOR MENU ----")
